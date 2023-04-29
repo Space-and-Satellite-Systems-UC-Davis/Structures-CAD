@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='1'>
+        <properties>
+            <Name value='CPoint2@02_PIN-1@Harness_4-CABLE_HARNESSING_ASSEMBLY:JP12@Harness_4-CABLE_HARNESSING_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP3'/>
+            <Length value='0.230356'/>
+            <AdditionalLength value='0.240356'/>
+            <FromLocation value='0.008351,0.001714,-0.113455'/>
+            <ToLocation value='-0.022288,0.043753,0.022445'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='2'>
+        <properties>
+            <Name value='CPoint1@02_PIN-1@Harness_4-CABLE_HARNESSING_ASSEMBLY:JP10@Harness_4-CABLE_HARNESSING_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP2'/>
+            <Length value='0.230706'/>
+            <AdditionalLength value='0.240706'/>
+            <FromLocation value='0.007101,0.001714,-0.113455'/>
+            <ToLocation value='-0.023538,0.043753,0.022445'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>

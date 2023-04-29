@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='1'>
+        <properties>
+            <Name value='CPoint3@5_PIN-1@Harness_9-CABLE_REALOP_ONE_ASSEMBLY:JP8@Harness_9-CABLE_REALOP_ONE_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP8'/>
+            <Length value='0.152202'/>
+            <AdditionalLength value='0.162202'/>
+            <FromLocation value='0.076877,-0.010532,0.986925'/>
+            <ToLocation value='0.090877,-0.008782,1.116325'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.000508'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='2'>
+        <properties>
+            <Name value='CPoint1@5_PIN-1@Harness_9-CABLE_REALOP_ONE_ASSEMBLY:JP10@Harness_9-CABLE_REALOP_ONE_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP10'/>
+            <Length value='0.136973'/>
+            <AdditionalLength value='0.146973'/>
+            <FromLocation value='0.074377,-0.010532,0.986925'/>
+            <ToLocation value='0.090877,-0.008782,1.102625'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.000508'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='3'>
+        <properties>
+            <Name value='CPoint4@5_PIN-1@Harness_9-CABLE_REALOP_ONE_ASSEMBLY:JP7@Harness_9-CABLE_REALOP_ONE_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='4'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP7'/>
+            <Length value='0.153927'/>
+            <AdditionalLength value='0.163927'/>
+            <FromLocation value='0.078127,-0.010532,0.986925'/>
+            <ToLocation value='0.092127,-0.008782,1.116325'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.000508'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='4'>
+        <properties>
+            <Name value='CPoint2@5_PIN-1@Harness_9-CABLE_REALOP_ONE_ASSEMBLY:JP9@Harness_9-CABLE_REALOP_ONE_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP9'/>
+            <Length value='0.152492'/>
+            <AdditionalLength value='0.162492'/>
+            <FromLocation value='0.075627,-0.010532,0.986925'/>
+            <ToLocation value='0.089627,-0.008782,1.116325'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.000508'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='5'>
+        <properties>
+            <Name value='CPoint5@5_PIN-1@Harness_9-CABLE_REALOP_ONE_ASSEMBLY:JP6@Harness_9-CABLE_REALOP_ONE_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='5'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP6'/>
+            <Length value='0.151359'/>
+            <AdditionalLength value='0.161359'/>
+            <FromLocation value='0.079377,-0.010532,0.986925'/>
+            <ToLocation value='0.093377,-0.008782,1.116325'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.000508'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>

@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='1'>
+        <properties>
+            <Name value='CPoint4@8_PIN-1@Harness_25-CABLE_REALOP_ONE_ASSEMBLY:JP52@Harness_25-CABLE_REALOP_ONE_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='4'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP13'/>
+            <Length value='0.046530'/>
+            <AdditionalLength value='0.056530'/>
+            <FromLocation value='0.087518,0.035889,0.258513'/>
+            <ToLocation value='0.082768,0.012923,0.285925'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='2'>
+        <properties>
+            <Name value='CPoint1@8_PIN-1@Harness_25-CABLE_REALOP_ONE_ASSEMBLY:JP60@Harness_25-CABLE_REALOP_ONE_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP16'/>
+            <Length value='0.046530'/>
+            <AdditionalLength value='0.056530'/>
+            <FromLocation value='0.087518,0.032139,0.258513'/>
+            <ToLocation value='0.082768,0.009173,0.285925'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='3'>
+        <properties>
+            <Name value='CPoint7@8_PIN-1@Harness_25-CABLE_REALOP_ONE_ASSEMBLY:JP45@Harness_25-CABLE_REALOP_ONE_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='7'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP19'/>
+            <Length value='0.047358'/>
+            <AdditionalLength value='0.057358'/>
+            <FromLocation value='0.087518,0.039639,0.258513'/>
+            <ToLocation value='0.083596,0.016673,0.285925'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='4'>
+        <properties>
+            <Name value='CPoint8@8_PIN-1@Harness_25-CABLE_REALOP_ONE_ASSEMBLY:JP41@Harness_25-CABLE_REALOP_ONE_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='8'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP20'/>
+            <Length value='0.045675'/>
+            <AdditionalLength value='0.055675'/>
+            <FromLocation value='0.087518,0.040889,0.258513'/>
+            <ToLocation value='0.082768,0.017923,0.285925'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='5'>
+        <properties>
+            <Name value='CPoint6@8_PIN-1@Harness_25-CABLE_REALOP_ONE_ASSEMBLY:JP47@Harness_25-CABLE_REALOP_ONE_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='6'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP11'/>
+            <Length value='0.046530'/>
+            <AdditionalLength value='0.056530'/>
+            <FromLocation value='0.087518,0.038389,0.258513'/>
+            <ToLocation value='0.082768,0.015423,0.285925'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='6'>
+        <properties>
+            <Name value='CPoint2@8_PIN-1@Harness_25-CABLE_REALOP_ONE_ASSEMBLY:JP57@Harness_25-CABLE_REALOP_ONE_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP15'/>
+            <Length value='0.046530'/>
+            <AdditionalLength value='0.056530'/>
+            <FromLocation value='0.087518,0.033389,0.258513'/>
+            <ToLocation value='0.082768,0.010423,0.285925'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='7'>
+        <properties>
+            <Name value='CPoint3@8_PIN-1@Harness_25-CABLE_REALOP_ONE_ASSEMBLY:JP54@Harness_25-CABLE_REALOP_ONE_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP14'/>
+            <Length value='0.046530'/>
+            <AdditionalLength value='0.056530'/>
+            <FromLocation value='0.087518,0.034639,0.258513'/>
+            <ToLocation value='0.082768,0.011673,0.285925'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='8'>
+        <properties>
+            <Name value='CPoint5@8_PIN-1@Harness_25-CABLE_REALOP_ONE_ASSEMBLY:JP49@Harness_25-CABLE_REALOP_ONE_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='5'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP12'/>
+            <Length value='0.046530'/>
+            <AdditionalLength value='0.056530'/>
+            <FromLocation value='0.087518,0.037139,0.258513'/>
+            <ToLocation value='0.082768,0.014173,0.285925'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>

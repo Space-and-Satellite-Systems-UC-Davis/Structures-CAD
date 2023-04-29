@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='1'>
+        <properties>
+            <Name value='CPoint1@1_PIN-1@Harness_4-CABLE_REALOP_ONE_ASSEMBLY:JP5@Harness_4-CABLE_REALOP_ONE_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP2'/>
+            <Length value='0.090968'/>
+            <AdditionalLength value='0.100968'/>
+            <FromLocation value='0.035687,0.005561,0.309325'/>
+            <ToLocation value='0.051868,0.073811,0.335325'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.000508'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>

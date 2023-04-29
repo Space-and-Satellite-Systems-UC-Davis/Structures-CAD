@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<fromToList xmlns='http://www.solidworks.com/fromToList'>
+    <version value='3'/>
+ fromToRouteType='route'    <fromToData>
+        <wireID value='0'/>
+        <wireName value='optic'/>
+        <signalName  value=''/>
+        <cableID value='1'/>
+        <cableName value='PIN 1_1'/>
+        <cableCoreRef value='optic'/>
+        <colour value='white'/>
+        <swColour value='16777215'/>
+        <partNumber value='PIN 1'/>
+        <OD value='0.000508'/>
+        <conductorDiameter value='0.000508'/>
+        <size value='n/a'/>
+        <routedLength value='0.047503'/>
+        <cuttingLength value='0.057503'/>
+        <comments value='Optical Fibre'/>
+        <fromCompID value='-1'/>
+        <fromCompRef value='1_PIN-1'/>
+        <fromPinID value='-1'/>
+        <fromPinRef value='1'/>
+        <fromInsert value=''/>
+        <fromCompPart value=''/>
+        <twistID value='0'/>
+        <twistNumberPerLength value='0.000000'/>
+        <twistPerMetreLength value='0.000000'/>
+        <unitForTwistPerUnitLength value='0'/>
+        <twistedLength value='0.057503'/>
+        <twistedPairName value=''/>
+        <fromPinIsTBlock value='0'/>
+        <toCompID value='-1'/>
+        <toCompRef value='42_PIN-1'/>
+        <toPinID value='-1'/>
+        <toPinRef value='41'/>
+        <toCompPart value=''/>
+        <toInsert value=''/>
+        <owner value='1'/>
+        <minBendRadius value='0.000000'/>
+        <toPinIsTBlock value='0'/>
+    </fromToData>
+</fromToList>

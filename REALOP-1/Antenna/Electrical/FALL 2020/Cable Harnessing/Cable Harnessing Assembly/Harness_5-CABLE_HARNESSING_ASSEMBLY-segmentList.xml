@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='1'>
+        <properties>
+            <Name value='CPoint3@07_PIN_-1@Harness_5-CABLE_HARNESSING_ASSEMBLY:JP42@Harness_5-CABLE_HARNESSING_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='3'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP10'/>
+            <Length value='0.189008'/>
+            <AdditionalLength value='0.199008'/>
+            <FromLocation value='0.005201,0.170785,-0.122112'/>
+            <ToLocation value='0.005809,0.132411,-0.046223'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='2'>
+        <properties>
+            <Name value='CPoint4@07_PIN_-1@Harness_5-CABLE_HARNESSING_ASSEMBLY:JP7@Harness_5-CABLE_HARNESSING_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='4'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP2'/>
+            <Length value='0.038100'/>
+            <AdditionalLength value='0.048100'/>
+            <FromLocation value='0.006451,0.170785,-0.122112'/>
+            <ToLocation value='0.006451,0.170785,-0.084012'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='3'>
+        <properties>
+            <Name value='CPoint7@07_PIN_-1@Harness_5-CABLE_HARNESSING_ASSEMBLY:JP12@Harness_5-CABLE_HARNESSING_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='7'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP3'/>
+            <Length value='0.038100'/>
+            <AdditionalLength value='0.048100'/>
+            <FromLocation value='0.010201,0.170785,-0.122112'/>
+            <ToLocation value='0.010201,0.170785,-0.084012'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='4'>
+        <properties>
+            <Name value='CPoint5@07_PIN_-1@Harness_5-CABLE_HARNESSING_ASSEMBLY:JP17@Harness_5-CABLE_HARNESSING_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='5'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP4'/>
+            <Length value='0.038100'/>
+            <AdditionalLength value='0.048100'/>
+            <FromLocation value='0.007701,0.170785,-0.122112'/>
+            <ToLocation value='0.007701,0.170785,-0.084012'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='5'>
+        <properties>
+            <Name value='CPoint1@07_PIN_-1@Harness_5-CABLE_HARNESSING_ASSEMBLY:JP36@Harness_5-CABLE_HARNESSING_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP8'/>
+            <Length value='0.187238'/>
+            <AdditionalLength value='0.197238'/>
+            <FromLocation value='0.002701,0.170785,-0.122112'/>
+            <ToLocation value='0.003309,0.132411,-0.046223'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='6'>
+        <properties>
+            <Name value='CPoint2@07_PIN_-1@Harness_5-CABLE_HARNESSING_ASSEMBLY:JP39@Harness_5-CABLE_HARNESSING_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='2'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP9'/>
+            <Length value='0.188908'/>
+            <AdditionalLength value='0.198908'/>
+            <FromLocation value='0.003951,0.170785,-0.122112'/>
+            <ToLocation value='0.004559,0.132411,-0.046223'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='7'>
+        <properties>
+            <Name value='CPoint6@07_PIN_-1@Harness_5-CABLE_HARNESSING_ASSEMBLY:JP32@Harness_5-CABLE_HARNESSING_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='6'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP7'/>
+            <Length value='0.038100'/>
+            <AdditionalLength value='0.048100'/>
+            <FromLocation value='0.008951,0.170785,-0.122112'/>
+            <ToLocation value='0.008951,0.170785,-0.084012'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.001000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>

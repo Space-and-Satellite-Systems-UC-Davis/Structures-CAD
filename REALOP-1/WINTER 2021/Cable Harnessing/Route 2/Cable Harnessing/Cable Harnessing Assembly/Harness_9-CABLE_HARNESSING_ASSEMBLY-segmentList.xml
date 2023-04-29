@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='1'>
+        <properties>
+            <Name value='CPoint1@01_PIN_CONNECTOR-1@Harness_9-CABLE_HARNESSING_ASSEMBLY:JP4@Harness_9-CABLE_HARNESSING_ASSEMBLY'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='1'/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value='JP4'/>
+            <Length value='0.211042'/>
+            <AdditionalLength value='0.221042'/>
+            <FromLocation value='0.039655,0.147900,-0.042888'/>
+            <ToLocation value='0.029887,0.049200,-0.003082'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>
