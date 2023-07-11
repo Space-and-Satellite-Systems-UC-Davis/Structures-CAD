@@ -1,2 +1,2 @@
 # CUSTOM PARTS
-### Use this folder to add all Custom Designed Parts, for example a 3d printed battery mount would go here. As a general rule of thumb if an SSS member sketched it out and designed it, put it in this folder.
+Use this folder to add all Custom Designed Parts, for example a 3d printed battery mount would go here. As a general rule of thumb if an SSS member sketched it out and designed it, put it in this folder.
